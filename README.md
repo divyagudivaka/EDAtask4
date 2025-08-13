@@ -53,8 +53,8 @@ Perform Exploratory Data Analysis (EDA) on the Titanic dataset to extract meanin
 
 **Files in This Repository**
 
-* `EDAtask4.ipynb` – Jupyter Notebook with code, plots, and observations.
-* `EDAtask4.pdf` – Exported PDF version of the analysis.
+* `EDAtask5.ipynb` – Jupyter Notebook with code, plots, and observations.
+* `EDAtask5.pdf` – Exported PDF version of the analysis.
 * `train.csv` – Titanic dataset.
 * `README.md` – Project documentation (this file).
 
